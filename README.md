@@ -1,5 +1,7 @@
 # dmd_senior_project
 
+Please see the "DMD Senior Project.pdf" file for more details about the project.
+
 Example Renders:
 ![Render 1](Render1.jpg)
 ![Render 2](Render2.jpg)
